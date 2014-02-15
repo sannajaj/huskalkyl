@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Huskalkyl</string>
+    
+    <string name="price">Pris</string>
+    <string name="pant">Befintligt pantbrev</string>
+    <string name="cash">Kontantinsats %d procent</string>
+    <string name="result">Handpenning:\nPantbrev:\nLagfart:\nTotalt:</string>
+    <string name="result_format">%1$s kr.\n%2$s kr.\n%3$s kr.\n%4$s kr.</string>
+    
+    <string name="error">Nu överdriver du väl lite?</string>
+
+</resources>
